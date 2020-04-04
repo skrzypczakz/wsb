@@ -1,0 +1,22 @@
+.red {
+    background-color: red;
+    float: right;
+}
+
+.blue {
+    background-color: blue;
+    float: right;
+}
+
+.green {
+    background-color: green;
+    float: right;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

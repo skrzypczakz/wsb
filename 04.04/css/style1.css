@@ -1,0 +1,13 @@
+.container {
+    background: #fff;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+    margin: 10px;
+    float: right;
+}
