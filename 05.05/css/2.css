@@ -1,0 +1,19 @@
+.first {
+    border: solid thick rgba(81, 234, 67, 0.8);
+    border-top: solid thin tomato;
+    border-style: dotted;
+}
+
+.second {
+    border: solid grey;
+    border-width: 10px 10px 20px 2px;
+    border-top-style: double;
+    border-right-style: dashed;
+    border-bottom-style: groove;
+    border-left-style: ridge;
+}
+
+.third {
+    border: solid grey;
+    border-bottom-style: dotted;
+}
