@@ -32,7 +32,7 @@ echo strlen(rtrim($name2));  //8
 echo strlen(trim($name2)),"<br>;"  //6
 
 //przeszukiwanie ciągów znakó
- $address = "Poznań, ul. Polna 10, tel. (61) 123-44-55"
+ $address = "Poznań, ul. Polna 10, tel. (61) 123-44-55";
 
 
  $search = stristr($address, 'Tel', true);
