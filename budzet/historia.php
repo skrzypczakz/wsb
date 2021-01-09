@@ -48,46 +48,76 @@
 
         <!-- Koniec elementów głównych-->
 
-
-        <div class="avatarGlowny">
-            <a href="profiles.php"><img src="css/images/Ellipse 4.png" alt="back"></a>
+        <div class="grayBox">
+            <a>Historia wydatków</a>
         </div>
 
-        <div class="actualMoney">
-            <a>521,23 zł</a>
+        <div class="hiWydatkow">
+        <div class="card-body table-responsive p-0">
+                  <table class="table table-striped table-valign-middle">
+                    <thead>
+                    <tr>
+                      <th>Dziś, 09.01</th>
+                      <th></th>
+                      <th></th>
+                      <th></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                      <td>
+                        <img src="css/images/Component 21 – 1.png" alt="Jedzenie">
+                        Biedronka
+                      </td>
+                      <td></td>
+                      <td>
+                        183 zł
+                      </td>
+                      <td>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <img src="css/images/Component 23 – 1.png" alt="Ubrania">
+                        Reserved
+                      </td>
+                      <td></td>
+                      <td>
+                        123,24 zł
+                      </td>
+                      <td>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <img src="css/images/Component 24 – 1.png" alt="Product 1">
+                       U Fukiera
+                      </td>
+                      <td></td>
+                      <td>
+                        198 zł
+                      </td>
+                      <td>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <img src="css/images/Component 22 – 1.png" alt="Transport" >
+                        Uber
+                      </td>
+                      <td></td>
+                      <td>
+                        87 zł
+                      </td>
+                      <td>
+                      </td>
+                    </tr>
+                    </tbody>
+                  </table>
+                </div>
+        
         </div>
-
-        <div class="speedClick">
-            <ul class="iconClick">
-                <li> <a href="#"><img src="css/images/Icon feather-send.png"></a></li>
-                <li> <a href="#"><img src="css/images/Icon material-payment.png"></a></li>
-            </ul>
-        </div>
-
-        <div class="ostatnieWydatki">
-      <table class="ostatnieGlowna">
-           <thead>
-               <tr>
-                   <th>Dziś, 08.01</th>
-               </tr>
-           </thead>
-           <tbody>
-               <tr>
-                   <th>Cos tam</th>
-                   <th>200 zł</th>
-               </tr>
-               <tr>
-                   <th>Cos innego</th>
-                   <th>150 zł</th>
-               </tr>
-               <tr>
-                   <th>Nwm</th>
-                   <th>132 zł</th>
-               </tr>
-           </tbody>
-       </table></div>  
-
-       
+        
 
     </div>
 

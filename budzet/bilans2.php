@@ -38,8 +38,8 @@
         <div id="menuBox">
 
             <ul id="menu">
-                <li><a href="index.html"><img src="css/images/Feed.png" alt="glowna"></a>
-                <li><a href="bilans1.php"><img src="css/images/Alert.png" alt="saldo"></a>
+                <li><a href="index.html"><img src="css/images/FeedOp.png" alt="glowna"></a>
+                <li><a href="bilans1.php"><img src="css/images/AlertWh.png" alt="saldo"></a>
                 <li><a href="kalendarz.php"><img src="css/images/Explore.png" alt="kalendarz"></a>
                 <li><a href="skarbonka.php"><img src="css/images/Profile.png" alt="skarbonka"></a>
                 <li><a href="#"><img src="css/images/Settings.png" alt="inne"></a>
@@ -48,46 +48,43 @@
 
         <!-- Koniec elementów głównych-->
 
-
-        <div class="avatarGlowny">
-            <a href="profiles.php"><img src="css/images/Ellipse 4.png" alt="back"></a>
+        <div class="grayBox">
+            <a>Kategorie wydatków</a>
         </div>
 
-        <div class="actualMoney">
-            <a>521,23 zł</a>
+        <div class="kategorie">
+            <table class="kat">
+                <tbody>
+                    <tr>
+                        <th><img src="css/images/Component 20 – 1.png"></th>
+                        <th>RACHUNKI</th>
+                    </tr>
+                    <tr>
+                        <th><img src="css/images/Component 21 – 1.png"></th>
+                        <th>JEDZENIE</th>
+                    </tr>
+                    <tr>
+                        <th><img src="css/images/Component 22 – 1.png"></th>
+                        <th>TRANSPORT</th>
+                    </tr>
+                    <tr>
+                        <th><img src="css/images/Component 23 – 1.png"></th>
+                        <th>UBRANIA</th>
+                    </tr>
+                    <tr>
+                        <th><img src="css/images/Component 24 – 1.png"></th>
+                        <th>ODZIEŻ</th>
+                    </tr>
+                    <tr>
+                        <th><img src="css/images/Component 25 – 1.png"></th>
+                        <th>INNE</th>
+                    </tr>
+                </tbody>
+            </table>
+
         </div>
 
-        <div class="speedClick">
-            <ul class="iconClick">
-                <li> <a href="#"><img src="css/images/Icon feather-send.png"></a></li>
-                <li> <a href="#"><img src="css/images/Icon material-payment.png"></a></li>
-            </ul>
-        </div>
-
-        <div class="ostatnieWydatki">
-      <table class="ostatnieGlowna">
-           <thead>
-               <tr>
-                   <th>Dziś, 08.01</th>
-               </tr>
-           </thead>
-           <tbody>
-               <tr>
-                   <th>Cos tam</th>
-                   <th>200 zł</th>
-               </tr>
-               <tr>
-                   <th>Cos innego</th>
-                   <th>150 zł</th>
-               </tr>
-               <tr>
-                   <th>Nwm</th>
-                   <th>132 zł</th>
-               </tr>
-           </tbody>
-       </table></div>  
-
-       
+   
 
     </div>
 

@@ -182,11 +182,15 @@ ul > li {
     border-spacing: 10px;   
 }
 
+.diagram {
+    margin-top: 50px;
+}
+
 .wydatkiSkrot{
     background-color:rgba(90,95,112,0.4);
     position: relative;
     height: 70px;
-    margin-top: 40px;
+    margin-top: 70px;
     padding: 10px;
     text-align: center;
 }
@@ -199,6 +203,19 @@ ul > li {
     margin-top: 10px;
     font-size: 25px;
 }
+
+.kategorie {
+    margin-top: 20px;
+    margin-left: 20px;   
+
+}
+
+.kat{
+    text-align: left;
+    border-spacing: 10px;
+}
+
+
 
 .kalendarz{
     background: rgba(46,49,62,0.4);
@@ -233,4 +250,11 @@ ul > li {
 .grayBox a{
     font-size: 28px;
     color: #2e313e;
+}
+
+.hiWydatkow{
+    padding-top: 20px;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    
 }
