@@ -131,6 +131,7 @@ ul > li {
     width:100%;
     position:fixed;
     bottom:0px;  
+    padding-bottom: 20px;
 }
 
 #menu {
@@ -257,4 +258,8 @@ ul > li {
     margin-left: 20px;
     padding-bottom: 10px;
     
+}
+
+.wyd {
+    padding-top: 10px;
 }
